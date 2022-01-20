@@ -1,0 +1,15 @@
+C:\Users\robis\Desktop\SynitiChallenge\bin\Debug\net6.0\SynitiChallenge.exe
+C:\Users\robis\Desktop\SynitiChallenge\bin\Debug\net6.0\SynitiChallenge.deps.json
+C:\Users\robis\Desktop\SynitiChallenge\bin\Debug\net6.0\SynitiChallenge.runtimeconfig.json
+C:\Users\robis\Desktop\SynitiChallenge\bin\Debug\net6.0\SynitiChallenge.dll
+C:\Users\robis\Desktop\SynitiChallenge\bin\Debug\net6.0\ref\SynitiChallenge.dll
+C:\Users\robis\Desktop\SynitiChallenge\bin\Debug\net6.0\SynitiChallenge.pdb
+C:\Users\robis\Desktop\SynitiChallenge\obj\Debug\net6.0\SynitiChallenge.csproj.AssemblyReference.cache
+C:\Users\robis\Desktop\SynitiChallenge\obj\Debug\net6.0\SynitiChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robis\Desktop\SynitiChallenge\obj\Debug\net6.0\SynitiChallenge.AssemblyInfoInputs.cache
+C:\Users\robis\Desktop\SynitiChallenge\obj\Debug\net6.0\SynitiChallenge.AssemblyInfo.cs
+C:\Users\robis\Desktop\SynitiChallenge\obj\Debug\net6.0\SynitiChallenge.csproj.CoreCompileInputs.cache
+C:\Users\robis\Desktop\SynitiChallenge\obj\Debug\net6.0\SynitiChallenge.dll
+C:\Users\robis\Desktop\SynitiChallenge\obj\Debug\net6.0\ref\SynitiChallenge.dll
+C:\Users\robis\Desktop\SynitiChallenge\obj\Debug\net6.0\SynitiChallenge.pdb
+C:\Users\robis\Desktop\SynitiChallenge\obj\Debug\net6.0\SynitiChallenge.genruntimeconfig.cache
