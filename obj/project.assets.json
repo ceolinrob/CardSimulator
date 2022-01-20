@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robis\\Desktop\\SynitiChallenge\\SynitiChallenge.csproj",
-      "projectName": "SynitiChallenge",
-      "projectPath": "C:\\Users\\robis\\Desktop\\SynitiChallenge\\SynitiChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\robis\\Desktop\\SynitiChallenge\\CardSimulator.csproj",
+      "projectName": "CardSimulator",
+      "projectPath": "C:\\Users\\robis\\Desktop\\SynitiChallenge\\CardSimulator.csproj",
       "packagesPath": "C:\\Users\\robis\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\robis\\Desktop\\SynitiChallenge\\obj\\",
       "projectStyle": "PackageReference",
