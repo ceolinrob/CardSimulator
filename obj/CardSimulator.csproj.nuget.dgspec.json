@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robis\\Desktop\\SynitiChallenge\\CardSimulator.csproj": {}
+    "C:\\Users\\robis\\Desktop\\CardSimulator\\CardSimulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robis\\Desktop\\SynitiChallenge\\CardSimulator.csproj": {
+    "C:\\Users\\robis\\Desktop\\CardSimulator\\CardSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robis\\Desktop\\SynitiChallenge\\CardSimulator.csproj",
+        "projectUniqueName": "C:\\Users\\robis\\Desktop\\CardSimulator\\CardSimulator.csproj",
         "projectName": "CardSimulator",
-        "projectPath": "C:\\Users\\robis\\Desktop\\SynitiChallenge\\CardSimulator.csproj",
+        "projectPath": "C:\\Users\\robis\\Desktop\\CardSimulator\\CardSimulator.csproj",
         "packagesPath": "C:\\Users\\robis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robis\\Desktop\\SynitiChallenge\\obj\\",
+        "outputPath": "C:\\Users\\robis\\Desktop\\CardSimulator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\robis\\AppData\\Roaming\\NuGet\\NuGet.Config"

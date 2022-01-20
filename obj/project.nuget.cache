@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JEOuREG9iDryjWzih6rtD78OO4BcKeQx2MaA8Xyld3gCdImw9k+TUH/Q2K2BYwxvBtlP5AVFbkIJuF8Cb1Bqkg==",
+  "dgSpecHash": "UEufsg6oligqjfsj5UkOvJPS0GvDuCPHjFQrB8DnVzqhA67mSmTkNru1im4fDDkDwXp/qcJbvzduqhD4RTlyfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\robis\\Desktop\\SynitiChallenge\\CardSimulator.csproj",
+  "projectFilePath": "C:\\Users\\robis\\Desktop\\CardSimulator\\CardSimulator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
